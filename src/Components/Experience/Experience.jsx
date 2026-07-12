@@ -39,7 +39,7 @@ const Experience = () => {
           {/* EY Systems */}
           <div className="bg-black bg-opacity-30 p-6 rounded-2xl border border-gray-800 hover:border-[#465697] transition-all">
             <h3 className="text-xl font-bold">Frontend Developer Intern, EY Systems</h3>
-            <p className="text-sm text-gray-400 mb-3">Jan 2024 - Present</p>
+            <p className="text-sm text-gray-400 mb-3">Oct 2024 - Dec 2024</p>
             <ul className="text-sm text-gray-300 list-disc ml-5 space-y-2">
               <li>Developing high-performance UI components using React, Tailwind, and Firebase.</li>
               <li>Implementing real-time data synchronization features, similar to live analytics dashboards.</li>
@@ -50,7 +50,7 @@ const Experience = () => {
           {/* Codec Technologies */}
           <div className="bg-black bg-opacity-30 p-6 rounded-2xl border border-gray-800 hover:border-[#465697] transition-all">
             <h3 className="text-xl font-bold">Web Developer Intern, Codec Technologies</h3>
-            <p className="text-sm text-gray-400 mb-3">June 2023 - Dec 2023</p>
+            <p className="text-sm text-gray-400 mb-3">July 2025 - Aug 2025</p>
             <ul className="text-sm text-gray-300 list-disc ml-5 space-y-2">
               <li>Engineered full-stack solutions with dynamic interfaces and robust SQL database schemas.</li>
               <li>Designed and executed complex MySQL/PostgreSQL queries for data-intensive application modules.</li>
