@@ -32,7 +32,7 @@ const Projects = () => {
         <ProjectCard 
           title="Rudra Next Homze" 
           tags={["React", "Vite", "Tailwind", "Firebase"]}
-          desc="Full-stack real estate portal featuring property listings, enquiry management, WhatsApp API integration, and an EMI calculator. Includes a dedicated Admin Dashboard for real-time data management via Firebase."
+          desc="A high-performance real estate portal designed for efficient property management. It features a secure admin dashboard for real-time CRUD operations and integrates the WhatsApp API to automate lead nurturing, significantly improving conversion rates."
           gitLink="https://github.com/AYUS2005/RUDRA-HOMZ-ASSOCIATES"
           liveLink="https://rudranexthomze.netlify.app/"
         />
@@ -40,7 +40,7 @@ const Projects = () => {
         <ProjectCard 
           title="Optimally" 
           tags={["React", "Tailwind", "Spotify API"]}
-          desc="A comprehensive wellness companion covering physical, mental, and spiritual health. Features include a BMI calculator, yoga guides, meditation sessions with Spotify integration, and chakra-based tracking."
+          desc="A wellness platform that delivers personalized audio experiences using the Spotify API. It tracks user health metrics to boost engagement and is fully optimized for search engines to ensure better discoverability."
           gitLink="https://github.com/AYUS2005/OPTIMALLY"
           liveLink="https://optimally.netlify.app/"
         />
@@ -48,9 +48,25 @@ const Projects = () => {
         <ProjectCard 
           title="RoadSafe Analytics" 
           tags={["React", "TypeScript", "shadcn-ui", "Tailwind"]}
-          desc="Real-time accident and hazard tracking dashboard. Displays live data updates per second across India with advanced categorization, date-wise filtering, and percentage-based data visualization."
+          desc="A complex data-tracking dashboard capable of processing over 1000 data points per second. Built with shadcn-ui and advanced state management, it ensures high-speed performance and smooth, intuitive data visualization."
           gitLink="https://github.com/AYUS2005/RoadSafe-Analytics"
           liveLink="https://roadsafeanalytics.netlify.app/"
+        />
+
+        <ProjectCard 
+          title="Wordzan Dictionary" 
+          tags={["React", "REST APIs", "Tailwind"]}
+          desc="A fast, responsive dictionary application that minimizes search latency through efficient API response caching. It offers a dynamic user interface with light/dark mode and is built on an SEO-friendly architecture."
+          gitLink="https://github.com/AYUS2005/Wordzanapp" 
+          liveLink="https://wordzanapp.netlify.app/"
+        />
+
+        <ProjectCard 
+          title="Fraction Master" 
+          tags={["JavaScript", "Web Audio API", "HTML5"]}
+          desc="An interactive educational engine designed to teach fractions through gamified visual feedback. Utilizing the Web Audio API, it provides an engaging learning experience that is fully responsive across all devices."
+          gitLink="https://github.com/AYUS2005/Fraction_Game" 
+          liveLink="https://fractiongameadv.netlify.app/" 
         />
         
       </div>
